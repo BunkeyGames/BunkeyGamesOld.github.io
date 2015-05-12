@@ -15,9 +15,9 @@ excerpt_separator: <!--more--> #use this in posts to define how long the excerpt
 colors:  #in hex code if not noted else
   primary: "#6F6F6F" #"#6F6F6F" 
   primary_rgb: "111,111,111" #"111,111,111" #rgb of the primary. Needed in some places for the transparency effect.  
-  secondary: "#E0E0E0" #"#E0E0E0"
+  secondary: "#A2A2A2" #"#A2A2A2"
   link: "#6F6F6F"
-  link_hover: "#E0E0E0"
+  link_hover: "#A2A2A2"
   footer_heading: "#ffffff"
   footer_content: "#6F6F6F"
   
