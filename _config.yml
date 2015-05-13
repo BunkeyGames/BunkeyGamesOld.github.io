@@ -13,13 +13,13 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#6F6F6F" #"#6F6F6F" 
-  primary_rgb: "111,111,111" #"111,111,111" #rgb of the primary. Needed in some places for the transparency effect.  
-  secondary: "#A2A2A2" #"#A2A2A2"
-  link: "#6F6F6F"
-  link_hover: "#A2A2A2"
-  footer_heading: "#ffffff"
-  footer_content: "#6F6F6F"
+  primary: "#FDE3A7" #"#FDE3A7" 
+  primary_rgb: "253,227,167" #"253,227,167" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#F2784B" #"#F2784B"
+  link: "#F2784B"
+  link_hover: "#F4B350"
+  footer_heading: "#FDE3A7"
+  footer_content: "#F2784B"
   
   
 ### CONTACT SETTINGS ###
