@@ -51,6 +51,16 @@ members:
       - title: twitter
         url: http://twitter.com/chuzzylumpkin
 
+  - name: Jayce V.
+    position: Lead Philosopher
+    text: He's an idea and concept guy. We like to make him feel good by calling it "design".
+    img: jayce.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:jayce@bunkeygames.com
+      - title: youtube
+        url: https://www.youtube.com/user/echoproductions098
+
   - name: Ace.
     position: Mystery Snack Guy
     text: Nobody really knows what's up with ACE...
