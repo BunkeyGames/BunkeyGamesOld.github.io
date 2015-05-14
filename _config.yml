@@ -50,6 +50,13 @@ members:
         url: mailto:collin@bunkeygames.com
       - title: twitter
         url: http://twitter.com/chuzzylumpkin
+
+  - name: Ace.
+    position: Intern Scientist
+    text: Nobody really knows what's up with ACE...
+    img: ace.jpg
+    social:
+      
     
 # Clients information. Shown on Home and About pages.
 
