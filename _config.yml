@@ -54,7 +54,7 @@ members:
   - name: Jayce V.
     position: Lead Philosopher
     text: He's an idea and concept guy. We like to make him feel good by calling it "design".
-    img: jayce.jpg
+    img: jayce.png
     social:
       - title: envelope #use for email address
         url: mailto:jayce@bunkeygames.com
