@@ -21,8 +21,8 @@ keywords: indie, game, developement, team, gaming
 #disqus: forumname
 
 ##set this to enable google analytics
-#ga_id: analyticsID
-#ga_domain: analyticsDomain
+ga_id: UA-65024746-1
+ga_domain: www.bunkeygames.com
 
 ##Some commonly used links
 links:
