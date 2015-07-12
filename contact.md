@@ -9,7 +9,7 @@ sitemap:
 # Contact
 
 <!-- Do not change the code! -->
-<a id="foxyform_embed_link_685717" href="http://www.foxyform.com/">foxyform</a>
+
 <script type="text/javascript">
 (function(d, t){
    var g = d.createElement(t),
