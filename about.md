@@ -11,3 +11,4 @@ We are Bunkey Games, a small indie game studio based in Michigan. We are compris
 
 ![alt tag](/img/CollinCard.png)
 ![alt tag](/img/JayceCard.png)
+<li><a href="/"><i class="fa fa-pencil"></i>Contact</a></li>
