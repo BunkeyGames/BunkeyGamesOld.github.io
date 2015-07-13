@@ -12,8 +12,8 @@ We have a contact form coming soon. Until then, Email us at main@bunkeygames.com
 
 <form action="//formspree.io/main@bunkeygames.com"
       method="POST">
-    <input type="text" name="name"placeholder="Name">
-	 <input type="text" message="message"placeholder="Message">
-    <input type="email" name="_replyto"placeholder="Email">
+    <input type="text" name="name" placeholder="Name">
+	 <input type="text" message="message" placeholder="Message">
+    <input type="email" name="_replyto" placeholder="Email">
     <input type="submit" value="Send">
 </form> 
