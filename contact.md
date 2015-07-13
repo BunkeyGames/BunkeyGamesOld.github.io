@@ -14,6 +14,6 @@ We have a contact form coming soon. Until then, Email us at main@bunkeygames.com
       method="POST">
     <input type="text" name="name" placeholder="Name">
 	<input type="email" name="_replyto" placeholder="Email">
-	<input type="text" message="message" placeholder="Message" size="350" width="48" height="48">
+	<input type="text" message="message" placeholder="Message" size="350" style="width: 300px;">
     <input type="submit" value="Send">
 </form> 
