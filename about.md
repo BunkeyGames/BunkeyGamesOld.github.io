@@ -11,7 +11,7 @@ sitemap:
 ##About Bunkey Games
 
 We are Bunkey Games, a small indie game studio based in Michigan. We are comprised of two main members (although we get help from a lot of friends along the way.) We pride ourselves in crafting adventures and experiences for everyone. <br>
-<a href="http://twitter.com/BunkeyGames" target="_top"><i class="fa fa-twitter"></i>Tweet  Us</a>  <a href="http://steamcommunity.com/id/BunkeyGames" target="_top"><i class="fa fa-steam"></i>Find us on Steam</a> 
+<a href="http://twitter.com/BunkeyGames" target="_top"><i class="fa fa-twitter"></i>Tweet  Us</a>  <a href="http://steamcommunity.com/id/BunkeyGames" target="_top"><i class="fa fa-steam"></i>Find us on Steam</a> <a href="http://youtube.com/BunkeyGames" target="_top"><i class="fa fa-youtube-play"></i>Subscribe to us</a> 
 
 ##About Our Team
 
