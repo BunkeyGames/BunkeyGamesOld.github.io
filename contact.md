@@ -12,8 +12,7 @@ Find us on twitter @BunkeyGames.
 
 <form action="//formspree.io/main@bunkeygames.com"
       method="POST">
-    <input type="text" name="name" placeholder="Name">
-	<input type="email" name="_replyto" placeholder="Email"><br>
-	<textarea placeholder="Your message" rows="5" name="message"></textarea>
+    <input type="text" name="name" placeholder="Name"> <input type="email" name="_replyto" placeholder="Email"><br>
+	<textarea placeholder="Your message" rows="5" name="message"></textarea><br>
     <input type="submit" value="Send">
 </form> 
