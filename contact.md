@@ -13,6 +13,6 @@ sitemap:
 <form action="//formspree.io/main@bunkeygames.com"
       method="POST">
     <input type="text" name="name" placeholder="Name"> <br><input type="email" name="_replyto" placeholder="Email"><br>
-	<br><textarea placeholder="Your message" rows="5" name="message"></textarea><br>
+	<textarea placeholder="Your message" rows="5" name="message"></textarea><br>
     <input type="submit" value="Send">
 </form> 
