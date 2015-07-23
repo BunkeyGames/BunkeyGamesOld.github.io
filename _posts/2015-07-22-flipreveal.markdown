@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "First Post!"
+title:  "Big Announcement! "
 date:   2015-7-12 15:35:00
 categories: 
 ---
 
-## Big Announcement! 
+##Exciting Announcement from us at Bunkey!
 
 So... It is with great joy I announce to you...
 
