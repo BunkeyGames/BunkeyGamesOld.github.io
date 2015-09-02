@@ -10,5 +10,5 @@ sitemap:
 
 [ ![alt tag][1]](http://google.com)
 
-[1]: /img/CollinCard.png
+[1]: /img/graplrheader.png
 
