@@ -8,5 +8,8 @@ sitemap:
 ---
 # Games
 
-Coming soon...
+[![alt text][2]][1]
+
+  [1]: http://google.com
+  [2]: /img/graplrheader.png(graplr)
 
