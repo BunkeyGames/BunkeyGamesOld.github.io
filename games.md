@@ -8,8 +8,7 @@ sitemap:
 ---
 # Games
 
-[![alt text][2]][1]
+[ ![alt tag][1]](http://google.com)
 
-  [1]: http://google.com
-  [2]: /img/graplrheader.png(graplr)
+[1]: /img/CollinCard.png
 
