@@ -6,9 +6,7 @@ sitemap:
     changefreq: weekly
     lastmod: 2015-09-01T22:43:30+05:30
 ---
-# Games
+# Graplr (This page will be updated shortly :D)
 
-[ ![alt tag][1]](/games/graplr.md)
 
-[1]: /img/graplrheader.png
 
