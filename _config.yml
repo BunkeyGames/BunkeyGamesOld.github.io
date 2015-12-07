@@ -1,37 +1,17 @@
-##The website title
-name: Bunkey Games
-##Markdown processor
+# Site settings
+title: Clean Blog
+header-img: img/home-bg.jpg
+email: your-email@yourdomain.com
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: "/"
+url: "http://yourdomain.com"
+twitter_username: SBootstrap
+github_username:  davidtmiller
+facebook_username:  IronSummitMedia
+
+# Build settings
 markdown: kramdown
-##syntax highlighter. change it to pygments
 highlighter: pygments
-
-##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: http://bunkeygames.com
-sass:
-  sass_dir: _sass
-  style: :compressed
+permalink: pretty
 paginate: 5
-paginate_path: "page:num"
-##The website description (to be used in meta tags)
-description: Bunkey Games - Official site of Indie Game Development team, located in beautiful Michigan.
-##Some frequently used keywords on your website
-keywords: indie, game, developement, team, gaming
-
-##define this for disqus comment support
-#disqus: forumname
-
-##set this to enable google analytics
-ga_id: UA-65024746-1
-ga_domain: www.bunkeygames.com
-
-##Some commonly used links
-links:
-  facebook: username
-  twitter: BunkeyGames	
-  email: main@bunkeygames.com
-  github: username
-
-##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-about_image: about2.jpg
-##comment this if you want full width posts with no sidebar
-##sidebar: on
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
